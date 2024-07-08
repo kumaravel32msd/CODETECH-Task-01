@@ -34,5 +34,7 @@ Overview of the project:
                     planning and visualizing the layout and aesthetics of the website.
 
 
-      ![1720431690651](https://github.com/kumaravel32msd/CODETECH-Task-01/assets/132915344/53544a28-dae2-4531-b2b8-876e9661f538)
+      
+
+
 
